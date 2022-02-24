@@ -1,10 +1,7 @@
-body{
-  font-family: arial, sans-serif;
-}
-
   body{
     line-height: 1.3em;
     color: white;
+    font-family: arial, sans-serif;
     background: linear-gradient(to right, #ffffff -3%, #4d4d4d 100%);
   }
   .center{
@@ -56,3 +53,5 @@ body{
       border-bottom: 1px solid grey;
       padding-bottom: 5px;
     }
+
+  }
